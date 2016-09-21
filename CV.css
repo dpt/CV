@@ -1,0 +1,25 @@
+body {
+    margin: auto;
+    padding-right: 1em;
+    padding-left: 1em;
+    max-width: 80%;
+    border-left: 1px dotted gray;
+    border-right: 1px dotted gray;
+    color: black;
+    font-family: Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
+    font-size: 100%;
+    line-height: 1.4;
+    color: black;
+}
+h1, h2, h3 {
+    letter-spacing: -0.015em;
+}
+code {
+    background-color: #f0f0f0;
+    padding: 0.2em 0.333em;
+    border-radius: 0.25em;
+}
+tr td:first-child {
+    text-align: right;
+    padding-right: 0.5em;
+}
